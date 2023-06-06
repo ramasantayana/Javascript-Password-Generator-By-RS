@@ -88,13 +88,13 @@ This Challenge is graded based on the following criteria:
 
 * Repository contains quality readme file with description, screenshot, and link to deployed application.
 
-## Review
+## Links
 
-You are required to submit the following for review:
 
-* The URL of the deployed application.
 
-* The URL of the GitHub repository, with a unique name and a readme describing the project.
+* https://ramasantayana.github.io/Javascript-Password-Generator-By-RS/
+
+* https://github.com/ramasantayana/Javascript-Password-Generator-By-RS.git
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
