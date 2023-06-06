@@ -1,4 +1,4 @@
-# Javascript-Password-Generator-By-RS
+# 03 JavaScript: Password Generator
 
 ## Your Task
 
